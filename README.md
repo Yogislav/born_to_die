@@ -1,2 +1,3 @@
 # Born to die
-Dark Souls, feat. Excel-style management and CS:GO case opening
+Paper-style RPG game with Dark Souls difficulty, Excel-style management and CS:GO inspired case openings.
+
